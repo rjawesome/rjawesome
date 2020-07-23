@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a full stack web/mobile app developer and competitive programmer. See more on my website: [rohanj.dev](https://rohanj.dev)
 <!--
 **rjawesome/rjawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
